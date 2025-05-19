@@ -1,0 +1,6 @@
+<mapping>
+    <variable>
+        <source>ns=2;i=2</source>
+        <mapped_name>mapped_motor_temperature</mapped_name>
+    </variable>
+</mapping>
